@@ -1,0 +1,16 @@
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\bin\Debug\net8.0-windows\Convertidor de Unidades.exe
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\bin\Debug\net8.0-windows\Convertidor de Unidades.deps.json
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\bin\Debug\net8.0-windows\Convertidor de Unidades.runtimeconfig.json
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\bin\Debug\net8.0-windows\Convertidor de Unidades.dll
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\bin\Debug\net8.0-windows\Convertidor de Unidades.pdb
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor_de_Unidades.Form1.resources
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor de Unidades.vbproj.GenerateResource.cache
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor de Unidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor de Unidades.AssemblyInfoInputs.cache
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor de Unidades.AssemblyInfo.vb
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor de Unidades.vbproj.CoreCompileInputs.cache
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor de Unidades.dll
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\refint\Convertidor de Unidades.dll
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor de Unidades.pdb
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\Convertidor de Unidades.genruntimeconfig.cache
+C:\Users\SERVER\source\repos\Convertidor de Unidades\Convertidor de Unidades\obj\Debug\net8.0-windows\ref\Convertidor de Unidades.dll
